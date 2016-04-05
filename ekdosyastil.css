@@ -1,0 +1,52 @@
+                                              #devadam {
+width:420px;
+height:80px;
+background:#3498db;
+text-decoration:none;
+transition-property: background;
+transition-duration:0.1s;
+transition-delay: 0.2s;
+}
+
+#devadam:hover {
+background:#27ae60;
+}
+
+#hepsi {
+position:relative;
+top:-25px;
+left:10px;
+}
+
+.devadam-yazi {
+color:#fff;
+font-family: 'Josefin Sans', sans-serif;
+font-size:16px;
+top:7px;
+text-align:center;
+position:relative;
+}
+
+.devadam-yazi2 {
+color:#fff;
+font-family: 'Josefin Sans', sans-serif;
+font-size:14px;
+right:55px;
+text-align:center;
+position:relative;
+}
+.devadam-yazi3 {
+color:#fff;
+font-family: 'Josefin Sans', sans-serif;
+font-size:14px;
+left:80px;
+top:-19px;
+text-align:center;
+position:relative;
+}
+
+.devadam-icon {
+position:relative;
+left:25px;
+top:25px;
+}
